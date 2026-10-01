@@ -9,7 +9,7 @@ export const SITE = {
   tagline: 'Mecânica & Diagnóstico',
   whatsapp: '5511999999999', // DDI + DDD + número, só dígitos
   phoneLabel: '(11) 99999-9999',
-  address: 'Av. das Oficinas, 1234 – Centro, São Paulo/SP',
+  address: 'Av. das Oficinas, 1234 – Centro, Canoas/RS',
   hours: 'Seg a Sex: 8h às 18h · Sáb: 8h às 13h',
   instagram: '@autoforte.oficina',
   heroImage: 'https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1800&q=70',
